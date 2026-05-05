@@ -3,7 +3,7 @@ int main (){
 
 int n,org,result=0,rem;
 
-printf ("enter the num");
+printf ("enter three digit num");
 scanf ("%d",&n);
 org=n;
 while (org!=0){
